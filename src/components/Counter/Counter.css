@@ -1,0 +1,39 @@
+.counter-back {
+    background-color: #282c34;
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.reset-button {
+    display: block;
+    justify-content: center;
+    background-color: rgb(138, 43, 226);
+    border: 2px solid rgb(138, 43, 226);
+    border-radius: 5px;
+    padding: 3px;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Antonio', sans-serif;
+}
+
+.reset-button:hover {
+    background-color: rgb(75, 0, 130);
+}
+
+.action-button {
+    color: white;
+    background-color: #37caf3;
+    border: 2px solid #37caf3;
+    border-radius: 5px;
+    padding: 3px;
+    color: #282c34;
+    margin: 1rem;
+    font-size: 20px;
+    font-family: 'Antonio', sans-serif;
+}
+
+.action-button:hover {
+    background-color: #1da7ce;
+}
