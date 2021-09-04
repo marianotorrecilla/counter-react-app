@@ -18,4 +18,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Deployment
 
-This project has a heroku deploy. You can see it: [https://counter-react-app-example.herokuapp.com/](https://counter-react-app-example.herokuapp.com/)
+This example has a heroku deploy. You can see it: [https://counter-react-app-example.herokuapp.com/](https://counter-react-app-example.herokuapp.com/)
